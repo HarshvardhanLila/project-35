@@ -49,7 +49,7 @@ function draw() {
   textSize(30)
   text("Food Available:" + foods,200,500)
   drawSprites();
-  //add styles here
+ 
   fill("black")
   textSize(30)
   text("Press the Up arrow to feed the Dog",100,100)
